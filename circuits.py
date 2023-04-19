@@ -1,4 +1,4 @@
-__author__ = "Your names"
+__author__ = "Caleb Gindelberger, Chase Martinez, Ryan Price, Owen Schultz"
 __copyright__ = "Copyright @2023"
 
 from collections import namedtuple

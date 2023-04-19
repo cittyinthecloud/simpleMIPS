@@ -1,5 +1,5 @@
-__author__ = "Your names"
-__Copyright__ =  "Copyright @2022"
+__author__ = "Caleb Gindelberger, Chase Martinez, Ryan Price, Owen Schultz"
+__copyright__ = "Copyright @2023"
 
 
 import circuits
